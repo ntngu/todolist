@@ -1,3 +1,3 @@
-import { init } from "./init.js";
+import { Init } from "./init.js";
 
-document.body.appendChild(init());
+document.body.appendChild(Init());

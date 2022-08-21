@@ -1,7 +1,7 @@
-import { dominit } from "./dominit.js";
+import { DomInit } from "./dominit.js";
 
-function init() {
-  return dominit();
+function Init() {
+  return DomInit();
 }
 
-export { init };
+export { Init };
